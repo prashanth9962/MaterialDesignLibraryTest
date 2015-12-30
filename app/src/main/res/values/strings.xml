@@ -73,4 +73,5 @@
 
     <string name="pref_title_vibrate">Vibrate</string>
     <string name="title_activity_block_people">BlockPeople</string>
+    <string name="title_activity_test_fragment">TestFragmentActivity</string>
 </resources>
